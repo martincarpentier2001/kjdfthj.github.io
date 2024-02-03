@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.TXT {
+  position: absolute;
+  display: block;
+  margin: 3rem;
+  color: white;
+  margin-right: 50%;
+  top: 30%;
+}
